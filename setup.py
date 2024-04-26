@@ -9,14 +9,14 @@ with open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='brave',
+    name='arpa2ipa',
 
     version='0.1.0rc1',
 
     description='ARPA2IPA',
     long_description=long_description,
 
-    url='https://github.com/chorusai/arpa2ipa',
+    url='https://github.com/bunnyhero/arpa2ipa',
 
     author='Chorus',
 
